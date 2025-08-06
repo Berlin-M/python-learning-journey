@@ -1,7 +1,7 @@
 """
-================================================
+==================================================
 === Welcome to Your Python Journey with Berlin ===
-================================================
+==================================================
 
 Hello and welcome! My name is Mahdi, but you can call me Berlin. 
 This repository serves as my practical, hands-on guide to the world of Python.
