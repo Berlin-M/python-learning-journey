@@ -1,7 +1,7 @@
 """
-================================================
+==================================================
 === Welcome to Your Python Journey with Berlin ===
-================================================
+==================================================
 
 Hello and welcome! My name is Mahdi, but you can call me Berlin. 
 This repository serves as my practical, hands-on guide to the world of Python.
@@ -46,6 +46,20 @@ similar to how 'John Doe' is used in English examples.
 
 Whether you're a complete beginner or looking to refresh your skills, I hope you find
 this guide helpful.
+----------------
+     😊 --> me
+   Interface => Software
+      💻
+----------------
+   Agreement 1
+   Agreement 2
+       .
+       .
+       . ...off on
+    A = 00111001 --> digital
+                     binary
+
+
 
 Let's start coding!
 
