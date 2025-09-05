@@ -20,7 +20,7 @@ An escape sequence is a backslash \ followed by a character,
 # Moves the text after it to the next line.
 print("Hello\nWorld!")
 
-print("🚀------------------------------------🚀")
+print("🚀--------------------🚀")
 
 # 2. Horizontal Tab: \t
 # Adds a tab space.
